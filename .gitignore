@@ -1,0 +1,16 @@
+# Data
+data/
+*.csv
+*.parquet
+*.h5
+*.pkl
+*.onnx
+
+# Environment variables
+.env
+.venv
+env/
+
+# IDE settings
+.vscode/
+.idea/
