@@ -14,3 +14,4 @@ env/
 # IDE settings
 .vscode/
 .idea/.DS_Store
+.DS_Store
